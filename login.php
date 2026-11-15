@@ -30,6 +30,13 @@ if(isset($_POST['login'])){
     <form action="login.php" method="POST">
         <input type="text" placeholder="username" name="username">
         <input type="text" password="password" name="password">
+         <div class="form-group">
+            <select name="role" required>
+                <option value="">-- Pilih  --</option>
+                <option value="administrator">Administrator</option>
+                <option value="petugas">Petugas / Kasir</option>
+            </select>
+        </div>
         <button type"submit" name="login">Login Sekarang</button>
         <div class="form group">
         </div>

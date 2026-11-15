@@ -1,4 +1,4 @@
-/* --- Reset & Global Styling --- */
+
 * {
     margin: 0;
     padding: 0;
@@ -13,7 +13,6 @@ body {
     padding: 20px;
 }
 
-/* --- Container / Wrapper --- */
 .container {
     max-width: 900px;
     margin: 30px auto;
@@ -23,13 +22,11 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
 }
 
-/* --- Heading Styling --- */
 h1, h2, h3 {
     color: #2c3e50;
     margin-bottom: 20px;
 }
 
-/* --- Form & Input Styling --- */
 form {
     display: flex;
     flex-direction: column;
@@ -91,7 +88,6 @@ input[type=\"submit\"]:active,
     transform: scale(0.98);
 }
 
-/* Tombol Variasi (Hapus/Edit) */
 .btn-danger {
     background-color: #e74c3c;
 }
@@ -106,7 +102,6 @@ input[type=\"submit\"]:active,
     background-color: #27ae60;
 }
 
-/* --- Table Styling --- */
 table {
     width: 100%;
     border-collapse: collapse;

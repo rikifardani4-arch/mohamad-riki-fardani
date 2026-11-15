@@ -9,7 +9,13 @@
 <body>
     <link rel="stylesheet" href="style.css">
     <h1>SELAMAT DATANG di Beranda</h1>
-    <nav><ul><a href="data.php">DATA BARANG</a></ul></nav>
+    <nav><ul>
+        <a href="data.php">DATA BARANG</a></ul></nav>
+        <br>
+         <a href="pembelian.php">BELI BARANG</a></ul></nav>
+         <br>
+          <a href="index.php">Log Out</a></ul></nav>
+
     
 </body>
 </html>
