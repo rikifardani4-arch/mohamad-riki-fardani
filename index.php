@@ -11,7 +11,7 @@
         <h2>KASIR TOKO</h2>
         <table border="1">
             <tr>
-                <td><a href="login.php">Login user</a></td>
+                <td><a href="login.php">Login User</a></td>
             </tr>  
         </table>
     </div>
