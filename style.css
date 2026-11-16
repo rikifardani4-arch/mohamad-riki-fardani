@@ -1,5 +1,5 @@
 
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -58,7 +58,7 @@ input:focus, textarea:focus, select:focus {
     box-shadow: 0 0 5px rgba(52, 152, 219, 0.2);
 }
 
-/* --- Button Styling --- */
+
 button, 
 input[type="submit"], 
 .btn {
